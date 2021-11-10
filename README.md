@@ -1,2 +1,3 @@
 # vite-test
-Testing Vite
+
+This is a quick test app for trying out Vite.
