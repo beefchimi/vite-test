@@ -58,20 +58,16 @@ node_modules
 # Output of 'npm pack'
 *.tgz
 
-# Yarn Zero-Installs
-# .yarn/*
-# !.yarn/cache
-# !.yarn/patches
-# !.yarn/plugins
-# !.yarn/releases
-# !.yarn/sdks
-# !.yarn/versions
-
-# Yarn Non-Zero
+# Yarn common
 .yarn/*
 !.yarn/patches
-!.yarn/releases
 !.yarn/plugins
+!.yarn/releases
 !.yarn/sdks
 !.yarn/versions
+
+# Yarn Zero-Installs
+# !.yarn/cache
+
+# Yarn Non-Zero
 .pnp.*
