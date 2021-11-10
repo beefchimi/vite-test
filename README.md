@@ -1,0 +1,2 @@
+# vite-test
+Testing Vite
