@@ -4,7 +4,6 @@
   "version": "0.0.1",
   "author": "Curtis Dulmage <curtdulmage@gmail.com>",
   "repository": "https://github.com/beefchimi/vite-test",
-  "packageManager": "yarn@3.1.0",
   "main": "dist/my-element.es.js",
   "exports": {
     ".": "./dist/my-element.es.js"
