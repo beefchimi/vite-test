@@ -694,7 +694,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"lit@npm:^2.0.0":
+"lit@npm:^2.0.2":
   version: 2.0.2
   resolution: "lit@npm:2.0.2"
   dependencies:
@@ -1200,7 +1200,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.3.2":
+"typescript@npm:^4.4.4":
   version: 4.4.4
   resolution: "typescript@npm:4.4.4"
   bin:
@@ -1210,7 +1210,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@^4.3.2#~builtin<compat/typescript>":
+"typescript@patch:typescript@^4.4.4#~builtin<compat/typescript>":
   version: 4.4.4
   resolution: "typescript@patch:typescript@npm%3A4.4.4#~builtin<compat/typescript>::version=4.4.4&hash=ddd1e8"
   bin:
@@ -1249,13 +1249,13 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "vite-test@workspace:."
   dependencies:
-    lit: ^2.0.0
-    typescript: ^4.3.2
-    vite: ^2.6.4
+    lit: ^2.0.2
+    typescript: ^4.4.4
+    vite: ^2.6.14
   languageName: unknown
   linkType: soft
 
-"vite@npm:^2.6.4":
+"vite@npm:^2.6.14":
   version: 2.6.14
   resolution: "vite@npm:2.6.14"
   dependencies:
